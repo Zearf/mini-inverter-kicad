@@ -1,0 +1,11 @@
+# KiCad local preferences, locks, and backups
+*.kicad_prl
+*.lck
+*.bak
+*-backups/
+.history/
+_autosave-*
+*~
+
+# Exported fabrication data: track separately when it is reviewed and ready.
+Export/
